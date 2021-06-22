@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284791825918",
+    "project_id": "sdsapp-364b4",
+    "storage_bucket": "sdsapp-364b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284791825918:android:892fbbf6a9b1349cacccaf",
+        "android_client_info": {
+          "package_name": "com.sds.sdsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284791825918-f86qhpkl0r67s0orm12bod6erh7i3blu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCutwkbk85gLoDqHhYn-whtzlpHVLU3GA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284791825918-f86qhpkl0r67s0orm12bod6erh7i3blu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
